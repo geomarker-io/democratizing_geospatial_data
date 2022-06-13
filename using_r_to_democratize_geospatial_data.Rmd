@@ -68,6 +68,8 @@ Here we will describe an example pipeline of how we use R to access and transfor
 
 To illustrate a typical workflow for democratizing a publicly available geospatial dataset, we will walk through an example using weather data from the North American Regional Reanalysis (NARR).
 
+<br>
+
 ### Accessing Geospatial Data
 
 - NARR data is publicly available as raster (gridded) files, and contains daily records of 8 different weather variables.
